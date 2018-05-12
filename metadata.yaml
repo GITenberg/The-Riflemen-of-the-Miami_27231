@@ -1,0 +1,33 @@
+_repo: The-Riflemen-of-the-Miami_27231
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ellis, Edward Sylvester
+    aliases:
+    - Ellis, E. S. (Edward Sylvester)
+    - Ellis, Edward S. (Edward Sylvester)
+    - Jayne, R. H.
+    birthdate: 1840
+    deathdate: 1916
+    gutenberg_agent_id: '2569'
+    url: http://www.gutenberg.org/2009/agents/2569
+description: ''
+gutenberg_issued: '2008-11-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27231'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Frontier and pioneer life -- Kentucky -- Fiction'
+- !lcsh 'Shawnee Indians -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Indians of North America -- Fiction'
+- !lcsh 'Frontier and pioneer life -- Ohio -- Fiction'
+title: The Riflemen of the Miami
+url: http://www.gutenberg.org/ebooks/27231
